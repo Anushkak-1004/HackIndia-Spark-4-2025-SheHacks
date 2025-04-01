@@ -1,0 +1,14 @@
+flask
+dash
+flask-cors
+pandas
+openpyxl
+pdfplumber
+PyPDF2
+pytesseract
+vosk
+pyaudio
+speechrecognition
+pyttsx3
+transformers
+torch
