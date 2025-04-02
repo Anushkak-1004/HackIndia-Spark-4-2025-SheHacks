@@ -1,0 +1,10 @@
+StudentID,Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,ParentalSupport,Extracurricular,Sports,Music,Volunteering,GPA,GradeClass,Category,Reason
+1001,17,1,0,2,19.83372281,7,1,2,0,0,1,0,2.929195592,2,High Risk Student,"Low GPA (2.93), high absences (7), and little extracurricular involvement (only music)"
+1002,18,0,0,1,15.40875606,0,0,1,0,0,0,0,3.042914833,1,Average Student,"Moderate GPA of 3.04, low extracurricular involvement, but perfect attendance."
+1003,15,0,2,3,4.210569769,26,0,2,0,0,0,0,0.112602254,4,High Risk Student,"Low GPA (0.11), high absences (26), and little extracurricular involvement (0)"
+1004,17,1,0,3,10.02882947,14,0,3,1,0,0,0,2.05421814,3,High Risk Student,"Low GPA (2.05421814), high absences (14.0), and little extracurricular involvement (1.0)"
+1005,17,1,0,2,4.672495273,17,1,3,0,0,0,0,1.288061182,4,High Risk Student,"Low GPA (1.29), high absences (17), and little extracurricular involvement (0)"
+1006,18,0,0,1,8.191218545,0,0,1,1,0,0,0,3.084183614,1,Top Performer,High GPA (3.08) and strong extracurricular involvement
+1007,15,0,1,1,15.60168047,10,0,3,0,1,0,0,2.748237415,2,High Risk Student,"Low GPA (2.75), high absences (10), and little extracurricular involvement (only 1 sport, no other activities)"
+1008,15,1,1,4,15.42449631,22,1,1,1,0,0,0,1.360142712,4,High Risk Student,"Low GPA (1.36), high absences (22), and little extracurricular involvement"
+1009,17,0,0,0,4.562007558,1,0,2,0,1,0,1,2.89681919,2,Average Student,Moderate GPA (2.90) and average participation in activities (involved in sports and volunteering)

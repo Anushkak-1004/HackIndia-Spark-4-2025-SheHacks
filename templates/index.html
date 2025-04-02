@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Excelmate AI</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <h1>📂 Upload File for Processing</h1>
+
+    <form id="upload-form" enctype="multipart/form-data">
+        <input type="file" id="file-upload" name="file">
+        <button type="submit">Upload</button>
+    </form>
+
+    <p id="status"></p>
+
+    <h2>📥 Download Processed File</h2>
+    <a href="/download" class="download-btn">Download Excel File</a>
+
+    <h2>📊 View Dashboard</h2>
+    <a href="http://127.0.0.1:8050" class="dashboard-btn">Open Dashboard</a>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
